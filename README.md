@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wen</h1>
 <h3 align="center">A passionate Computer Science Student from Vienna</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **Angular**, **React** and **ThreeJs**
 
-- 📫 How to reach me **wenhaowen1@gmail.com**
+- 📫 How to reach me **work.wenhaowen@gmail.com**
 
 
 
