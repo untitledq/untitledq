@@ -15,6 +15,8 @@ Some of my projects include a **Media Ratings Platform**, an **Electronic Lab No
 
 I also enjoy self-hosting services, experimenting with new technologies, and learning how things work behind the scenes.
 
+While you are here, don't forget to check out my Student Github profile: https://github.com/WhenWenh
+
 ### Fun Facts
 
 - 🖥️ I run my own homelab using Proxmox.
